@@ -6,7 +6,7 @@ payments, and customer/driver ratings. Using SQL for data querying and Power BI 
 the analysis helps identify business insights that can improve operations and customer satisfaction.
 
 ---
-### Sample of Raw Dataset
+### Raw Dataset
 
 ![Dataset Sample](pic/Dataset_Screenshot.png)
 
@@ -49,28 +49,26 @@ To explore Ola’s booking dataset and answer key business questions about:
 7. Retrieve all rides where payment was made using UPI  
 8. Find the average customer rating per vehicle type  
 9. Calculate the total booking value of rides completed successfully  
-10. List all incomplete rides along with the reason  
-
-> 📂 See: `Ola_Project.sql`
-
+10. List all incomplete rides along with the reason 
 
 ---
 
 ## 📊 Power BI Visualizations
 
-1. 📈 Ride Volume Over Time  
-2. 📊 Booking Status Breakdown  
-3. 🚗 Top 5 Vehicle Types by Ride Distance  
-4. ⭐ Average Customer Ratings by Vehicle Type  
-5. ❌ Cancelled Rides Reasons  
-6. 💳 Revenue by Payment Method  
-7. 👥 Top 5 Customers by Total Booking Value  
-8. 📍 Ride Distance Distribution Per Day  
-9. 🌟 Driver Ratings Distribution  
-10. 🔄 Customer vs. Driver Ratings Comparison  
+<table>
+  <tr>
+    <td><img src="pic/Overall.png" alt="Overall" width="300"/></td>
+    <td><img src="pic/Vehicle Type.png" alt="Vehicle Type" width="300"/></td>
+    <td><img src="pic/Revenue.png" alt="Revenue" width="300"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="pic/Cancellation.png" alt="Cancellation" width="300"/></td>
+    <td><img src="pic/Ratings.png" alt="Ratings" width="300"/></td>
+  </tr>
+</table>
 
-> 📂 See: `Ola Dashboard.pbit`  
-> 🖼️ Visuals: ![Power BI Dashboard](pic/PowerBI_Screenshot1.png)
 
 ---
 
