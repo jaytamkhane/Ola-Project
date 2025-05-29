@@ -1,5 +1,5 @@
 
-# 🚖 OLA Data Analyst Project
+# 🚖 OLA Data Analyst Project 🚖
 
 This project analyzes Ola ride booking data to uncover trends in bookings, cancellations, 
 payments, and customer/driver ratings. Using SQL for data querying and Power BI for visualization, 
@@ -16,7 +16,7 @@ the analysis helps identify business insights that can improve operations and cu
 
 ```
 Ola Project
-├── pic                              # Folder containing visual assets
+├── 📁pic                              # Folder containing visual assets
 ├── Bookings.csv                     # Raw dataset used for analysis
 ├── OLA-Data-Analyst-Project-1.pdf   # Project case study or problem statement
 ├── Ola Dashboard.pbit               # Power BI dashboard file
@@ -105,7 +105,7 @@ To explore Ola’s booking dataset and answer key business questions about:
 **Jaykumar Tamkhane**  
 Aspiring Data Analyst | SQL | Power BI | Python | AWS
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jaytamkhane/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jay-tamkhane)
 - 💻 [GitHub](https://github.com/jaytamkhane)
 
 
